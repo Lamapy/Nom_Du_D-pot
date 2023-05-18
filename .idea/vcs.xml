@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/html5up-forty/Fiche_De_Procedures/fiches de procédure/Authentification Symfony/authentification" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/html5up-forty/Fiche_De_Procedures/fiches de procédure/Authentification Symfony/authentification/top-tech-companies" vcs="Git" />
   </component>
 </project>
