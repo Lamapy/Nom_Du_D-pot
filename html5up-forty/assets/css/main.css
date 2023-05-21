@@ -4149,7 +4149,7 @@ input, select, textarea {
 .Tableau_de_Comp {
 	align-items: center;
 	position: center;
-	background-color: midnightblue;
+	background-color: mediumpurple;
 	padding: 2rem;
 	text-align: center;
 	text-decoration: none;
@@ -4157,6 +4157,8 @@ input, select, textarea {
 	color: white;
 	border-radius: 5%;
 	margin : 3%;
+	text-decoration:none;
+
 
 
 
@@ -4186,6 +4188,7 @@ input, select, textarea {
 
  .TableauDeComp {
 	 margin: 15%;
+	 text-decoration: none;
  }
 
  .img_tab {
